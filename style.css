@@ -30,7 +30,7 @@ html {
     }
   }
   .welcome {
-    background: url("images/bg5.jpg");
+    background: url("https://images.pexels.com/photos/784633/pexels-photo-784633.jpeg?auto=compress&cs=tinysrgb&w=1600");
     background-repeat: no-repeat;
     /* background-position: ; */
   }
@@ -44,7 +44,7 @@ html {
   
   @keyframes rot {
     100% {
-      transform: rotate(360deg);
+      transform: rotate(180deg);
     }
   }
   
